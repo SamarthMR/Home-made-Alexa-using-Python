@@ -1,10 +1,10 @@
 # Home-made-Alexa-using-Python
 
-#### Mentor
+### Mentor
 
-> Aryan Gulati
+#### > Aryan Gulati
 
-#### Member
+### Member
 
 ||Name|
 |-|-|
@@ -19,7 +19,13 @@ This is just a first-level basic type of bot that I've built, it can be further 
 
 ### Workflow
 
-The first step is to import the necessary libraries by installing them into your system.
+The first step is to import the necessary libraries by installing them into your system. The main libraries required for this project are the following:
+1. SpeechRecognition
+2. Pyttsx3
+3. Pywhatkit
+4. PyAudio
+5. Pyjokes
+6. Wikipedia
 
 #### Installation
 ##### For windows users
