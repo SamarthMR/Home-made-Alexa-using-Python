@@ -12,8 +12,8 @@
 
 ### About Project 
 
-A chatbot also known as a bot, virtual assistant, artificial agent, etc., is basically a software program driven by artificial intelligence principle which serves the purpose of making a conversation with the user by texts or by speech.\
-The main objective of this project is to create a bot like Alexa which listens to the person's requests and provide the necessary contents required using Python.\
+An alexa-bot also known as a bot, virtual assistant, artificial agent, etc., is basically a software program driven by artificial intelligence principle which serves the purpose of making a conversation with the user by texts or by speech.\
+The main objective of this project is to create a bot like Alexa which listens to the person's requests and provide the necessary contents required using Python. This can be done even when you are sitting in your homes and you don't need to spend lot of money to buy an Alexa for your home while you can create an own by yourself !!\
 This bot does not chat with you like a chatbot, but it does communicate to you when you say some commands to it through speech, which can be best seen through some live examples like your Alexa, Siri, Google Assistant etc., this project also works on the same principle.\
 This is just a first-level basic type of bot that I've built, it can be further programmed and there is a lot of scope for improvement.
 
