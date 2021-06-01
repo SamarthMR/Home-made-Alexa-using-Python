@@ -29,6 +29,7 @@ The first step is to import the necessary libraries by installing them into your
 
 #### Installation
 > For windows users:
+
 (run those in command prompt/cmt/terminal)
 For the bot to listen to our voice/speech
 `pip install speechRecognition`
