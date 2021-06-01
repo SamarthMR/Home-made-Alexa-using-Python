@@ -52,4 +52,4 @@ Then
 `pipwin install pyAudio`
 
 Now, you are ready to go and test your Alexa..!!\
-Go through the `main.py` source code that I've implemented and run it in any of your Python Interpreters after properly installing all the required libraries.
+Go through the `main.py` source code that I've implemented, and run it in any of your Python interpreters after properly installing all the required libraries.
