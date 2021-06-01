@@ -28,7 +28,7 @@ The first step is to import the necessary libraries by installing them into your
 6. Wikipedia
 
 #### Installation
-##### For windows users
+##### > For windows users:
 (run those in command prompt/cmt/terminal)
 For the bot to listen to our voice/speech
 `pip install speechRecognition`
