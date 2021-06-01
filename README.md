@@ -27,8 +27,7 @@ The first step is to import the necessary libraries by installing them into your
 5. Pyjokes
 6. Wikipedia
 
-#### Installation
-##### For windows users:
+#### Installation for Windows users:
 
 (run those in command prompt/cmt/terminal)
 For the bot to listen to our voice/speech
