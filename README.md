@@ -31,7 +31,7 @@ The first step is to import the necessary libraries by installing them into your
 
 (run those in command prompt/cmt/terminal)
 For the bot to listen to our voice/speech
-`pip install speechRecognition`
+`pip install speechrecognition`
 
 To speak out, or text to speech
 `pip install pyttsx3`
