@@ -1,15 +1,5 @@
 # Home-made-Alexa-using-Python
 
-### Mentor
-
-> Aryan Gulati
-
-### Member
-
-||Name|
-|-|-|
-|1| Samarth M R|
-
 ### About Project 
 
 An alexa-bot also known as a bot, virtual assistant, artificial agent, etc., is basically a software program driven by artificial intelligence principle which serves the purpose of making a conversation with the user by texts or by speech.\
